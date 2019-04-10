@@ -1,0 +1,934 @@
+{
+  "id": 101914185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":520036.247413,
+    "geom:bbox":"12.445909,41.900276,12.458336,41.907417",
+    "geom:latitude":41.903395,
+    "geom:longitude":12.452965,
+    "gn:elevation":55,
+    "gn:population":829,
+    "iso:country":"VA",
+    "lbl:latitude":41.903542,
+    "lbl:longitude":12.453083,
+    "mps:latitude":41.903542,
+    "mps:longitude":12.453083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:ace_x_preferred":[
+        "Vatikan"
+    ],
+    "name:afr_x_preferred":[
+        "Vatikaanstad"
+    ],
+    "name:alb_x_preferred":[
+        "Vatikani"
+    ],
+    "name:amh_x_preferred":[
+        "\u126b\u1272\u12ab\u1295 \u12a8\u1270\u121b"
+    ],
+    "name:ang_x_preferred":[
+        "Faticanburg"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u062a\u064a\u0643\u0627\u0646"
+    ],
+    "name:arc_x_preferred":[
+        "\u0721\u0715\u071d\u0722\u072c\u0710 \u0715\u0718\u071b\u071d\u0729\u0722"
+    ],
+    "name:arg_x_preferred":[
+        "Ciudat d'o Vaticano"
+    ],
+    "name:arm_x_preferred":[
+        "\u054e\u0561\u057f\u056b\u056f\u0561\u0576"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u06a4\u0627\u062a\u064a\u0643\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Ciud\u00e1 del Vaticanu"
+    ],
+    "name:ava_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Vatikan"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:baq_x_preferred":[
+        "Vatikano Hiria"
+    ],
+    "name:bar_x_preferred":[
+        "Vatikanstod"
+    ],
+    "name:bcl_x_preferred":[
+        "Ciudad nin Vaticano"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0442\u044b\u043a\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cd\u09af\u09be\u099f\u09bf\u0995\u09be\u09a8 \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:bho_x_preferred":[
+        "\u0935\u0947\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:bis_x_preferred":[
+        "Vatican Siti"
+    ],
+    "name:bos_x_preferred":[
+        "Vatikan"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ad\u09cd\u09af\u09be\u099f\u09bf\u0995\u09be\u09a8 \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:bre_x_preferred":[
+        "Keoded ar Vatikan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:bur_x_preferred":[
+        "\u1017\u102c\u1010\u102e\u1000\u1014\u103a\u1005\u102e\u1038\u1010\u102e\u1038"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Ciutat del Vatic\u00e0"
+    ],
+    "name:cdo_x_preferred":[
+        "Hu\u00e0ng-d\u00e1\u0324-g\u014fng"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u68b5\u8482\u5188"
+    ],
+    "name:chr_x_preferred":[
+        "\u13ea\u13d7\u13a7\u13c2 \u13a6\u13da\u13b2"
+    ],
+    "name:chu_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d\u044a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a4\u0627\u062a\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:cor_x_preferred":[
+        "Cita Vatikan"
+    ],
+    "name:cos_x_preferred":[
+        "Cit\u00e0 di u Vaticanu"
+    ],
+    "name:csb_x_preferred":[
+        "Watikan"
+    ],
+    "name:cze_x_colloquial":[
+        "Vatikan"
+    ],
+    "name:cze_x_preferred":[
+        "Vatik\u00e1n"
+    ],
+    "name:dan_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:deu_x_preferred":[
+        "Vatikanstadt"
+    ],
+    "name:deu_x_variant":[
+        "Staat Vatikanstadt",
+        "Staat der Vatikanstadt"
+    ],
+    "name:diq_x_preferred":[
+        "Vatikan"
+    ],
+    "name:div_x_preferred":[
+        "\u0788\u07ac\u0793\u07a8\u0786\u07a6\u0782\u07b0 \u0790\u07a8\u0793\u07a9"
+    ],
+    "name:dsb_x_preferred":[
+        "Vatika\u0144ske m\u011bsto"
+    ],
+    "name:dty_x_preferred":[
+        "\u092d\u094d\u092f\u093e\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:dut_x_preferred":[
+        "Vaticaanstad"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f56\u0f0b\u0f4a\u0f72\u0f0b\u0f40\u0f71\u0f53\u0f0d"
+    ],
+    "name:eml_x_preferred":[
+        "Sit\u00ea dal Vatic\u00e2n"
+    ],
+    "name:eng_x_colloquial":[
+        ""
+    ],
+    "name:eng_x_preferred":[
+        "Vatican City"
+    ],
+    "name:eng_x_variant":[
+        "Vaticancity",
+        "Vatican",
+        "Vatican City State"
+    ],
+    "name:epo_x_preferred":[
+        "Vatikano"
+    ],
+    "name:est_x_preferred":[
+        "Vatikan"
+    ],
+    "name:ewe_x_preferred":[
+        "Vatican City"
+    ],
+    "name:ext_x_preferred":[
+        "Ci\u00e1 del Vaticanu"
+    ],
+    "name:fao_x_preferred":[
+        "Vatikani\u00f0"
+    ],
+    "name:fin_x_preferred":[
+        "Vatikaani"
+    ],
+    "name:fin_x_variant":[
+        "Vatikaanivaltio"
+    ],
+    "name:fra_x_colloquial":[
+        "Cite du Vatican"
+    ],
+    "name:fra_x_preferred":[
+        "Vatican"
+    ],
+    "name:fra_x_variant":[
+        "Cit\u00e9 du Vatican",
+        "\u00c9tat de la Cit\u00e9 du Vatican"
+    ],
+    "name:fre_x_preferred":[
+        "Vatican"
+    ],
+    "name:frp_x_preferred":[
+        "Vatican"
+    ],
+    "name:frr_x_preferred":[
+        "Watikaanst\u00e4\u00e4d"
+    ],
+    "name:fry_x_preferred":[
+        "Fatikaanst\u00ead"
+    ],
+    "name:ful_x_preferred":[
+        "Watikan"
+    ],
+    "name:fur_x_preferred":[
+        "Cit\u00e2t dal Vatican"
+    ],
+    "name:gag_x_preferred":[
+        "Vatikan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10e2\u10d8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Vatikanstadt"
+    ],
+    "name:gla_x_preferred":[
+        "Cathair na Bhatacain"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair na Vatac\u00e1ine"
+    ],
+    "name:glg_x_preferred":[
+        "Cidade do Vaticano"
+    ],
+    "name:glv_x_preferred":[
+        "Ard-valley yn Phaab"
+    ],
+    "name:gom_x_preferred":[
+        "\u0935\u094d\u0939\u0945\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03c4\u03b9\u03ba\u03b1\u03bd\u03cc"
+    ],
+    "name:grn_x_preferred":[
+        "T\u00e1va Vatikano"
+    ],
+    "name:gsw_x_preferred":[
+        "Vatikan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0ac7\u0a9f\u0abf\u0a95\u0aa8 \u0ab8\u0abf\u0a9f\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "Vatican"
+    ],
+    "name:hat_x_preferred":[
+        "Vatikan"
+    ],
+    "name:hau_x_preferred":[
+        "Vatican"
+    ],
+    "name:haw_x_preferred":[
+        "Wakikana"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d9\u05ea \u05d4\u05d5\u05d5\u05ea\u05d9\u05e7\u05df"
+    ],
+    "name:hif_x_preferred":[
+        "Vatican City"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u0948\u091f\u093f\u0915\u0928 \u0928\u0917\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Vatikan"
+    ],
+    "name:hsb_x_preferred":[
+        "Vatikanske m\u011bsto"
+    ],
+    "name:hun_x_colloquial":[
+        "Vatikan"
+    ],
+    "name:hun_x_preferred":[
+        "Vatik\u00e1n"
+    ],
+    "name:ice_x_preferred":[
+        "Vat\u00edkani\u00f0"
+    ],
+    "name:ido_x_preferred":[
+        "Vatikano"
+    ],
+    "name:ile_x_preferred":[
+        "Vaticano"
+    ],
+    "name:ilo_x_preferred":[
+        "Siudad ti Batikano"
+    ],
+    "name:ina_x_preferred":[
+        "Citate Vatican"
+    ],
+    "name:ind_x_preferred":[
+        "Vatikan"
+    ],
+    "name:ita_x_colloquial":[
+        "Citta del Vaticano"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 del Vaticano"
+    ],
+    "name:jam_x_preferred":[
+        "Vatikan"
+    ],
+    "name:jav_x_preferred":[
+        "Vatikan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd"
+    ],
+    "name:jpn_x_variant":[
+        "\u30f4\u30a1\u30c1\u30ab\u30f3\u5e02\u56fd",
+        "\u30f4\u30a1\u30c6\u30a3\u30ab\u30f3\u5e02\u56fd",
+        "\u30d0\u30c1\u30ab\u30f3"
+    ],
+    "name:kaa_x_preferred":[
+        "Vatikan"
+    ],
+    "name:kab_x_preferred":[
+        "Vatikan"
+    ],
+    "name:kal_x_preferred":[
+        "Vatikani"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0ccd\u0caf\u0cbe\u0c9f\u0cbf\u0c95\u0ca8\u0ccd \u0ca8\u0c97\u0cb0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17bb\u179a\u17b8\u179c\u17c9\u17b6\u1791\u17b8\u1780\u1784\u17cb"
+    ],
+    "name:kin_x_preferred":[
+        "Vatikani"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:koi_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:kom_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:kon_x_preferred":[
+        "Vatican"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud2f0\uce78\uc2dc\ud2f0"
+    ],
+    "name:krc_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:ksh_x_preferred":[
+        "Vatikan"
+    ],
+    "name:kur_x_preferred":[
+        "Vat\u00eekan"
+    ],
+    "name:lad_x_preferred":[
+        "Sivdad del Vatikano"
+    ],
+    "name:lat_x_preferred":[
+        "Civitas Vaticana"
+    ],
+    "name:lav_x_preferred":[
+        "Vatik\u0101ns"
+    ],
+    "name:lez_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:lij_x_preferred":[
+        "\u00c7itt\u00e6 do Vatican"
+    ],
+    "name:lim_x_preferred":[
+        "Vaticaanstad"
+    ],
+    "name:lin_x_preferred":[
+        "Vatik\u00e1ni"
+    ],
+    "name:lit_x_preferred":[
+        "Vatikanas"
+    ],
+    "name:liv_x_preferred":[
+        "Vatikan"
+    ],
+    "name:lmo_x_preferred":[
+        "Cit\u00e0 del Vatican"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:ltg_x_preferred":[
+        "Vatikans"
+    ],
+    "name:ltz_x_preferred":[
+        "Vatikanstad"
+    ],
+    "name:lzh_x_preferred":[
+        "\u68b5\u8482\u5ca1"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u094d\u092f\u093e\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d24\u0d4d\u0d24\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d28\u0d17\u0d30\u0d02"
+    ],
+    "name:mao_x_preferred":[
+        "Poho o Pita"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u0945\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Kota Vatican"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Vatikan"
+    ],
+    "name:mlt_x_preferred":[
+        "Belt tal-Vatikan"
+    ],
+    "name:mon_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:mwl_x_preferred":[
+        "Baticano"
+    ],
+    "name:myv_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:nah_x_preferred":[
+        "\u0100ltep\u0113tl in Vaticano"
+    ],
+    "name:nan_x_preferred":[
+        "Vaticano"
+    ],
+    "name:nap_x_preferred":[
+        "Cit\u00e0 d''o Vaticano"
+    ],
+    "name:nau_x_preferred":[
+        "Batikan"
+    ],
+    "name:nav_x_preferred":[
+        "B\u00e1dikin S\u00eddii"
+    ],
+    "name:nds_x_preferred":[
+        "Vatikaan"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u094d\u092f\u093e\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Vaticaanstad"
+    ],
+    "name:nno_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:nob_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:nor_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:nov_x_preferred":[
+        "Vatikan Urbe"
+    ],
+    "name:nrm_x_preferred":[
+        "Vatican"
+    ],
+    "name:oci_x_preferred":[
+        "Vatican"
+    ],
+    "name:olo_x_preferred":[
+        "Vatikan"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2d\u0b3e\u0b1f\u0b3f\u0b15\u0b3e\u0b28 \u0b38\u0b3f\u0b1f\u0b3f"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:pag_x_preferred":[
+        "Siyudad na Vatikano"
+    ],
+    "name:pam_x_preferred":[
+        "Lakanbalen ning Baticanu"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a48\u0a1f\u0a40\u0a15\u0a28 \u0a38\u0a3f\u0a1f\u0a40"
+    ],
+    "name:pap_x_preferred":[
+        "Siudad Vatikano"
+    ],
+    "name:pcd_x_preferred":[
+        "Vatican"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:pfl_x_preferred":[
+        "Wadigaan"
+    ],
+    "name:pih_x_preferred":[
+        "Watikan Citii"
+    ],
+    "name:pli_x_preferred":[
+        "\u0935\u0948\u091f\u093f\u0915\u0928"
+    ],
+    "name:pms_x_preferred":[
+        "Sit\u00e0 d\u00ebl Vatican"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u06cc\u0679\u06cc\u06a9\u0646"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0392\u03b1\u03c4\u03b9\u03ba\u03b1\u03bd\u03cc"
+    ],
+    "name:pol_x_preferred":[
+        "Watykan"
+    ],
+    "name:por_x_preferred":[
+        "Vaticano"
+    ],
+    "name:por_x_variant":[
+        "Cidade do Vaticano"
+    ],
+    "name:pus_x_preferred":[
+        "\u0648\u0627\u067c\u064a\u06a9\u0627\u0646 \u069a\u0627\u0631"
+    ],
+    "name:que_x_preferred":[
+        "Watikanu llaqta"
+    ],
+    "name:rmy_x_preferred":[
+        "Vatican"
+    ],
+    "name:roh_x_preferred":[
+        "Citad dal Vatican"
+    ],
+    "name:rue_x_preferred":[
+        "\u0412\u0430\u0442\u0456\u043a\u0430\u043d"
+    ],
+    "name:rum_x_preferred":[
+        "Vatican"
+    ],
+    "name:rup_x_preferred":[
+        "Vatican"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:san_x_preferred":[
+        "\u0935\u0948\u091f\u093f\u0915\u0928"
+    ],
+    "name:scn_x_preferred":[
+        "Cit\u00e0 d\u00fb Vaticanu"
+    ],
+    "name:sco_x_preferred":[
+        "Vatican Ceety"
+    ],
+    "name:sgs_x_preferred":[
+        "Vatikans"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dad\u0dd2\u0d9a\u0dcf\u0db1\u0dd4\u0dc0"
+    ],
+    "name:slo_x_preferred":[
+        "Vatik\u00e1n"
+    ],
+    "name:slv_x_preferred":[
+        "Vatikan"
+    ],
+    "name:sme_x_preferred":[
+        "Vatik\u00e1na"
+    ],
+    "name:smo_x_preferred":[
+        "Aai o Vatikana"
+    ],
+    "name:sna_x_preferred":[
+        "Vatican City"
+    ],
+    "name:snd_x_preferred":[
+        "\u0648\u064a\u067d\u064a\u06aa\u0646 \u0633\u067d\u064a"
+    ],
+    "name:som_x_preferred":[
+        "Faatikan"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad del Vaticano"
+    ],
+    "name:spa_x_variant":[
+        "Vaticano"
+    ],
+    "name:srd_x_preferred":[
+        "Tzitade de su Vaticanu"
+    ],
+    "name:srn_x_preferred":[
+        "Presi fu Vatikanikondre"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:ssw_x_preferred":[
+        "IVathikhi"
+    ],
+    "name:stq_x_preferred":[
+        "Vatikanst\u00e4\u00e4d"
+    ],
+    "name:sun_x_preferred":[
+        "Vatikan"
+    ],
+    "name:swa_x_preferred":[
+        "Vatikani"
+    ],
+    "name:swe_x_preferred":[
+        "Vatikanstaten"
+    ],
+    "name:swe_x_variant":[
+        "Vatikanen",
+        "Vatikanstaden"
+    ],
+    "name:szl_x_preferred":[
+        "Watyk\u016fn"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c1f\u0c3f\u0c15\u0c28\u0c4d \u0c28\u0c17\u0c30\u0c02"
+    ],
+    "name:tet_x_preferred":[
+        "Vatikanu"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u043e\u0442\u0438\u043a\u043e\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Lungsod ng Batikano"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e23\u0e31\u0e10\u0e27\u0e32\u0e15\u0e34\u0e01\u0e31\u0e19"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f5d\u0f0b\u0f4f\u0f72\u0f0b\u0f40\u0f53\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7c\u0f62\u0f0d"
+    ],
+    "name:tuk_x_preferred":[
+        "Watikan"
+    ],
+    "name:tur_x_preferred":[
+        "Vatikan"
+    ],
+    "name:udm_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:uig_x_preferred":[
+        "Watikan Shehiri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Vatikan shahri"
+    ],
+    "name:vec_x_preferred":[
+        "Sit\u00e0 del Vatican"
+    ],
+    "name:vep_x_preferred":[
+        "Vatikan"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e0nh Vatican"
+    ],
+    "name:vls_x_preferred":[
+        "Vaticoanstad"
+    ],
+    "name:vol_x_preferred":[
+        "Vatik\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Vatikan"
+    ],
+    "name:war_x_preferred":[
+        "Syudad han Vaticano"
+    ],
+    "name:wel_x_preferred":[
+        "Y Fatican"
+    ],
+    "name:wol_x_preferred":[
+        "Watikaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u68b5\u8482\u5188"
+    ],
+    "name:xal_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d \u0411\u0430\u043b\u04bb\u0441\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10d0\u10e2\u10d8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05d8\u05d9\u05e7\u05d0\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "\u00ccl\u00fa Fatikan"
+    ],
+    "name:yue_x_preferred":[
+        "\u68b5\u8482\u5ca1"
+    ],
+    "name:zea_x_preferred":[
+        "Vatica\u00e2nstad"
+    ],
+    "name:zha_x_preferred":[
+        "Vatican"
+    ],
+    "name:zho_x_preferred":[
+        "\u68b5\u8482\u5ca1\u57ce"
+    ],
+    "name:zho_x_variant":[
+        "\u68b5\u8482\u5188\u57ce"
+    ],
+    "name:zul_x_preferred":[
+        "Indolobha yaseVathikhani"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Vatican (Holy Sea)",
+    "ne:ADM0_A3":"VAT",
+    "ne:ADM1NAME":"Lazio",
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":6691831,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Vatican City",
+    "ne:GN_POP":826,
+    "ne:GTOPO30":17.0,
+    "ne:ISO_A2":"VA",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":41.900012,
+    "ne:LONGITUDE":12.447808,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Vatican City",
+    "ne:MAX_AREAKM":177.0,
+    "ne:MAX_AREAMI":68.0,
+    "ne:MAX_BBXMAX":12.481009,
+    "ne:MAX_BBXMIN":12.333333,
+    "ne:MAX_BBYMAX":42.05,
+    "ne:MAX_BBYMIN":41.766667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":160.0,
+    "ne:MAX_PERMI":99.0,
+    "ne:MAX_POP10":636762,
+    "ne:MAX_POP20":636762,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":12.419907,
+    "ne:MEAN_BBYC":41.903477,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":177.0,
+    "ne:MIN_AREAMI":68.0,
+    "ne:MIN_BBXMAX":12.481009,
+    "ne:MIN_BBXMIN":12.333333,
+    "ne:MIN_BBYMAX":42.05,
+    "ne:MIN_BBYMIN":41.766667,
+    "ne:MIN_PERKM":160.0,
+    "ne:MIN_PERMI":99.0,
+    "ne:NAME":"Vatican City",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Vatican City",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":10,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":832,
+    "ne:POP_MIN":832,
+    "ne:POP_OTHER":562430,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":2,
+    "ne:SCALERANK":8,
+    "ne:SOV0NAME":"Vatican (Holy Sea)",
+    "ne:SOV_A3":"VAT",
+    "ne:TIMEZONE":"Europe/Vatican",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":1,
+    "qs:a0":"Citta del Vaticano",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Citta del Vaticano",
+    "qs:id":0,
+    "qs:la":"Guidonia Montecelio",
+    "qs:la_lc":"*IT312058047",
+    "qs:level":"locality",
+    "qs:loc":"Citt\u00e0 del Vaticano",
+    "qs:loc_alt":"Citta del Vaticano",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632187,
+        85688891
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632187,
+    "wof:concordances":{
+        "fct:id":"0a128ade-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":6691831,
+        "gp:id":537842,
+        "qs:id":643935,
+        "qs_pg:id":643935,
+        "wd:id":"Q237"
+    },
+    "wof:coterminous":[
+        85632187,
+        85688891
+    ],
+    "wof:country":"VA",
+    "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632187,
+            "locality_id":101914185,
+            "region_id":85688891
+        }
+    ],
+    "wof:id":101914185,
+    "wof:lang":[
+        "ita"
+    ],
+    "wof:lastmodified":1536881198,
+    "wof:megacity":0,
+    "wof:name":"Citt\u00e0 del Vaticano",
+    "wof:parent_id":85688891,
+    "wof:placetype":"locality",
+    "wof:population":829,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-va",
+    "wof:scale":8,
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.445909,
+    41.900276,
+    12.458336,
+    41.907417
+],
+  "geometry": {"coordinates":[[[12.455466,41.907417],[12.4557,41.906306],[12.457639,41.905821],[12.457701,41.903251],[12.458139,41.902955],[12.458336,41.902374],[12.458282,41.901782],[12.458009,41.901393],[12.457384,41.901149],[12.456688,41.90127],[12.456207,41.901609],[12.456318,41.900535],[12.454547,41.900276],[12.452855,41.900387],[12.451565,41.900381],[12.450843,41.900702],[12.448757,41.900918],[12.447878,41.900846],[12.44659,41.901739],[12.445909,41.901935],[12.446735,41.902284],[12.447749,41.903188],[12.448248,41.903621],[12.448643,41.903635],[12.448997,41.904714],[12.44896,41.905072],[12.449326,41.90515],[12.45036,41.905931],[12.450469,41.906535],[12.451372,41.906535],[12.452034,41.906553],[12.452602,41.906714],[12.453071,41.906708],[12.453781,41.906912],[12.455466,41.907417]]],"type":"Polygon"}
+}

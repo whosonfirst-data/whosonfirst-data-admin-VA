@@ -1,0 +1,137 @@
+{
+  "id": 85688891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":520046.408469,
+    "geom:bbox":"12.4459085,41.9002755,12.458336,41.907417",
+    "geom:latitude":41.903395,
+    "geom:longitude":12.452964,
+    "iso:country":"VA",
+    "label:eng_x_preferred_longname":[
+        "Vatican Country"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
+    "lbl:latitude":41.903542,
+    "lbl:longitude":12.453083,
+    "mps:latitude":41.903542,
+    "mps:longitude":12.453083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:deu_x_preferred":[
+        "Vatikan"
+    ],
+    "name:eng_x_preferred":[
+        "Vatican"
+    ],
+    "name:epo_x_preferred":[
+        "Vatikano"
+    ],
+    "name:fra_x_preferred":[
+        "Vatican"
+    ],
+    "name:ita_x_preferred":[
+        "Vaticano"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud2f0\uce78"
+    ],
+    "name:msa_x_preferred":[
+        "Vatican"
+    ],
+    "name:nld_x_preferred":[
+        "Vaticaan"
+    ],
+    "name:ron_x_preferred":[
+        "Vatican"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vatikanen"
+    ],
+    "name:tgl_x_preferred":[
+        "Vaticano"
+    ],
+    "name:vie_x_preferred":[
+        "Vatican"
+    ],
+    "qs:a0":"Vatican",
+    "qs:adm0":"Vatican",
+    "qs:adm0_a3":"VAT",
+    "qs:level":"adm1",
+    "qs:source":"US State Department, with Natural Earth mods",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-01",
+    "statoids:area_km":"0",
+    "statoids:area_mi":"0",
+    "statoids:as_of_date":"2010-07-01",
+    "statoids:capital":"Vatican City",
+    "statoids:country":"VA",
+    "statoids:gec":"VT",
+    "statoids:hasc":"VA.VA",
+    "statoids:iso":"VA",
+    "statoids:name":"Vatican City",
+    "statoids:population":"829",
+    "statoids:timezone":"+1~",
+    "statoids:type":"country",
+    "wd:wordcount":228,
+    "wof:belongsto":[
+        102191581,
+        85632187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"VT",
+        "hasc:id":"VA.VA",
+        "iso:id":"VA-VA"
+    },
+    "wof:coterminous":[
+        101914185,
+        85632187
+    ],
+    "wof:country":"VA",
+    "wof:geomhash":"a4b5363a2401fd4b14e35464d777f989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632187,
+            "region_id":85688891
+        }
+    ],
+    "wof:id":85688891,
+    "wof:lang_x_spoken":[
+        "ita"
+    ],
+    "wof:lastmodified":1553551018,
+    "wof:name":"Vatican",
+    "wof:parent_id":85632187,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"country",
+    "wof:population":829,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-va",
+    "wof:shortcode":"VA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44590850000003,
+    41.90027550000008,
+    12.458336,
+    41.907417
+],
+  "geometry": {"coordinates":[[[12.455466,41.907417],[12.4557,41.906306],[12.457639,41.905821],[12.45770050000004,41.90325050000007],[12.45813850000008,41.902955],[12.458336,41.902374],[12.458282,41.901782],[12.458009,41.901393],[12.457384,41.901149],[12.45668750000004,41.90126950000007],[12.45620650000006,41.901609],[12.45631750000007,41.900535],[12.45454650000005,41.90027550000008],[12.45285450000006,41.900387],[12.451565,41.900381],[12.45084250000002,41.900702],[12.44875650000006,41.90091750000005],[12.447878,41.90084566700006],[12.44659,41.90173850000008],[12.44590850000003,41.901935],[12.44673450000005,41.90228350000007],[12.44774866700004,41.903188],[12.44824750000004,41.90362050000005],[12.448643,41.903635],[12.448997,41.904714],[12.44896,41.905072],[12.44932550000004,41.90515],[12.45036,41.905931],[12.450469,41.906535],[12.45137150000005,41.906535],[12.452034,41.906553],[12.452602,41.906714],[12.45307050000002,41.90670750000004],[12.45378050000005,41.90691150000004],[12.455466,41.907417]]],"type":"Polygon"}
+}
