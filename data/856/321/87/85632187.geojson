@@ -81,9 +81,6 @@
     "name:cze_x_colloquial":[
         "Svaty Stolec"
     ],
-    "name:cze_x_preferred":[
-        "Vatik\u00e1n"
-    ],
     "name:cze_x_variant":[
         "Svat\u00fd Stolec"
     ],
@@ -100,7 +97,6 @@
     "name:deu_x_variant":[
         "Staat der Vatikanstadt",
         "Vatikanstadt",
-        "Vatikan",
         "Heiliger Stuhl"
     ],
     "name:ell_x_preferred":[
@@ -382,9 +378,7 @@
     ],
     "name:ron_x_variant":[
         "Sf\u00e2ntul Scaun (Statul Vatican)",
-        "Ora\u0219ul Vatican"
-    ],
-    "name:rum_x_preferred":[
+        "Ora\u0219ul Vatican",
         "Vatican"
     ],
     "name:rum_x_variant":[
@@ -513,7 +507,6 @@
         "\u6559\u5ef7"
     ],
     "name:zho_x_variant":[
-        "\u6559\u5ef7",
         "\u68b5\u8482\u5188",
         "\u5723\u5ea7\uff08\u68b5\u8482\u5188\uff09"
     ],
@@ -702,7 +695,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1544059200,
+    "wof:lastmodified":1561793110,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
