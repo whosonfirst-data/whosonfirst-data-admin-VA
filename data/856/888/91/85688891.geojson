@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "country"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VA"
+    ],
     "lbl:latitude":41.903542,
     "lbl:longitude":12.453083,
     "mps:latitude":41.903542,
@@ -122,7 +125,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1564297754,
+    "wof:lastmodified":1565738666,
     "wof:name":"Vatican",
     "wof:parent_id":85632187,
     "wof:placetype":"region",
