@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":41.903542,
     "lbl:longitude":12.453083,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":41.903542,
     "mps:longitude":12.453083,
     "mz:hierarchy_label":1,
@@ -898,7 +900,6 @@
     ],
     "name:und_x_variant":[
         "Baet'unam",
-        "Holy See",
         "Santa Seu",
         "Sv\u00e4t\u00e1 stolica",
         "Vatic\u00e0",
@@ -1094,7 +1095,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"39-06",
     "statoids:ds":"V",
@@ -1134,7 +1135,7 @@
         "mzb:id":"vatican-city",
         "ne:adm0_a3":"VAT",
         "nyt:id":"N80292730254685317361",
-        "qs:id":581166,
+        "qs_pg:id":581166,
         "uncrt:id":"V",
         "wd:id":"Q237",
         "wk:page":"Vatican City"
@@ -1157,7 +1158,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1565738667,
+    "wof:lastmodified":1566644081,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
