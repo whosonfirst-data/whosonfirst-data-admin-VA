@@ -921,6 +921,9 @@
         85688891
     ],
     "wof:country":"VA",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
     "wof:hierarchy":[
         {
@@ -934,7 +937,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1566644081,
+    "wof:lastmodified":1582393294,
     "wof:megacity":0,
     "wof:name":"Citt\u00e0 del Vaticano",
     "wof:parent_id":85688891,

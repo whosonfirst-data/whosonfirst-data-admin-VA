@@ -1146,6 +1146,9 @@
     ],
     "wof:country":"VA",
     "wof:country_alpha3":"VAT",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
     "wof:hierarchy":[
         {
@@ -1158,7 +1161,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1566644081,
+    "wof:lastmodified":1582393294,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
