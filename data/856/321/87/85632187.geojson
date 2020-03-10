@@ -1120,9 +1120,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Vatican_City",
-        "digitalenvoy:country_code":[
-            336
-        ],
+        "digitalenvoy:country_code":336,
         "fb:id":"en.vatican_city",
         "fifa:id":"VAT",
         "fips:code":"VT",
@@ -1164,7 +1162,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1583529244,
+    "wof:lastmodified":1583797453,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
