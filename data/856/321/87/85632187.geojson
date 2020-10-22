@@ -9,7 +9,6 @@
     "geom:bbox":"12.445909,41.900276,12.458336,41.907417",
     "geom:latitude":41.903395,
     "geom:longitude":12.452965,
-    "gn:id":"",
     "gn:population":921,
     "iso:country":"VA",
     "itu:country_code":[
@@ -1148,7 +1147,8 @@
     "wof:country":"VA",
     "wof:country_alpha3":"VAT",
     "wof:geom_alt":[
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
     ],
     "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
     "wof:hierarchy":[
@@ -1162,7 +1162,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1583797453,
+    "wof:lastmodified":1603265762,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
