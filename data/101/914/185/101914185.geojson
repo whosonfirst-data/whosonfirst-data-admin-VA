@@ -908,7 +908,9 @@
         85688891
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632187,
+    "wof:capital_of":[
+        85632187
+    ],
     "wof:concordances":{
         "fct:id":"0a128ade-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":6691831,
@@ -937,7 +939,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1582393294,
+    "wof:lastmodified":1607390885,
     "wof:megacity":0,
     "wof:name":"Citt\u00e0 del Vaticano",
     "wof:parent_id":85688891,
