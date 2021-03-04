@@ -261,14 +261,14 @@
         "Saint-Siege"
     ],
     "name:fra_x_preferred":[
-        "Vatican (homonymie)"
+        "Vatican"
     ],
     "name:fra_x_variant":[
         "Saint-Si\u00e8ge",
         "Cit\u00e9 du Vatican",
-        "Vatican",
         "Saint-Si\u00e8ge (Etat de la Cit\u00e9 du Vatican)",
-        "Saint-Si\u00e8ge (\u00c9tat de la Cit\u00e9 du Vatican)"
+        "Saint-Si\u00e8ge (\u00c9tat de la Cit\u00e9 du Vatican)",
+        "Vatican (homonymie)"
     ],
     "name:frp_x_preferred":[
         "Vatican"
@@ -1162,7 +1162,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1583797453,
+    "wof:lastmodified":1614896547,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
