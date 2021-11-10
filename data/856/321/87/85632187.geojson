@@ -966,6 +966,12 @@
     "name:zha_x_preferred":[
         "Vatican"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u68b5\u8482\u5188"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u68b5\u8482\u5ca1\u57ce"
+    ],
     "name:zho_x_preferred":[
         "\u6559\u5ef7"
     ],
@@ -1227,7 +1233,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1617827728,
+    "wof:lastmodified":1636506408,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
