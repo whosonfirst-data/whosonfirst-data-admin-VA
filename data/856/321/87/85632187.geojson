@@ -29,6 +29,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Vatikan"
     ],
@@ -41,6 +44,9 @@
     "name:aka_x_preferred":[
         "Vatican Man"
     ],
+    "name:aka_x_variant":[
+        "Vatican City"
+    ],
     "name:amh_x_preferred":[
         "\u126b\u1272\u12ab\u1295"
     ],
@@ -50,17 +56,29 @@
     "name:ang_x_preferred":[
         "Faticanburg"
     ],
+    "name:anp_x_preferred":[
+        "\u0935\u0947\u091f\u093f\u0915\u0928 \u0928\u0917\u0930"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u062a\u064a\u0643\u0627\u0646"
     ],
     "name:arc_x_preferred":[
         "\u0721\u0715\u071d\u0722\u072c\u0710 \u0715\u0718\u071b\u071d\u0729\u0722"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u06a4\u0627\u062a\u064a\u0643\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u06a4\u0627\u062a\u064a\u0643\u0627\u0646"
     ],
+    "name:asm_x_preferred":[
+        "\u09ad\u09c7\u099f\u09bf\u0995\u09be\u09a8 \u099a\u09bf\u099f\u09bf"
+    ],
     "name:ava_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+    ],
+    "name:avk_x_preferred":[
+        "Vatikana"
     ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
@@ -73,6 +91,9 @@
     ],
     "name:bam_x_preferred":[
         "Vatika\u014b"
+    ],
+    "name:ban_x_preferred":[
+        "Vatikan"
     ],
     "name:bar_x_preferred":[
         "Vatikanstod"
@@ -156,11 +177,17 @@
     "name:cym_x_preferred":[
         "Y Fatican"
     ],
+    "name:cym_x_variant":[
+        "y Fatican"
+    ],
     "name:cze_x_colloquial":[
         "Svaty Stolec"
     ],
     "name:cze_x_variant":[
         "Svat\u00fd Stolec"
+    ],
+    "name:dag_x_preferred":[
+        "Vatican City"
     ],
     "name:dan_x_preferred":[
         "Vatikanstaten"
@@ -288,6 +315,9 @@
     "name:gag_x_preferred":[
         "Vatikan"
     ],
+    "name:gcr_x_preferred":[
+        "Vatikan"
+    ],
     "name:gle_x_preferred":[
         "An Vatac\u00e1in"
     ],
@@ -296,6 +326,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0935\u094d\u0939\u0945\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf40\ud800\udf30\ud800\udf40\ud800\udf30\ud800\udf32\ud800\udf30\ud800\udf42\ud800\udf33\ud800\udf43"
+    ],
+    "name:gpe_x_preferred":[
+        "Vatican City"
     ],
     "name:grn_x_preferred":[
         "T\u00e1va Vatikano"
@@ -355,6 +391,9 @@
         "Vatik\u00e1n"
     ],
     "name:hye_x_preferred":[
+        "\u054e\u0561\u057f\u056b\u056f\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
         "\u054e\u0561\u057f\u056b\u056f\u0561\u0576"
     ],
     "name:ido_x_preferred":[
@@ -429,6 +468,9 @@
     "name:kan_x_variant":[
         "\u0cb5\u0ccd\u0caf\u0cbe\u0c9f\u0cbf\u0c95\u0ca8\u0ccd \u0ca8\u0c97\u0cb0"
     ],
+    "name:kas_x_preferred":[
+        "\u0648\u0627\u0679\u0650\u06a9\u064e\u0646 \u0633\u0650\u0679\u06cc"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10e2\u10d8\u10d9\u10d0\u10dc\u10d8"
     ],
@@ -488,6 +530,9 @@
     "name:lao_x_preferred":[
         "\u0ea7\u0eb2\u0e95\u0eb4\u0e81\u0eb1\u0e99"
     ],
+    "name:lao_x_variant":[
+        "\u0e99\u0eb0\u0e84\u0ead\u0e99\u0ea5\u0eb1\u0e94\u0ea7\u0eb2\u0e95\u0eb4\u0e81\u0eb1\u0e87"
+    ],
     "name:lat_x_preferred":[
         "Status Civitatis Vatican\u00e6"
     ],
@@ -540,6 +585,9 @@
     "name:lzh_x_preferred":[
         "\u68b5\u8482\u5ca1"
     ],
+    "name:mad_x_preferred":[
+        "Vatikan"
+    ],
     "name:mai_x_preferred":[
         "\u092d\u094d\u092f\u093e\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
     ],
@@ -554,6 +602,9 @@
     ],
     "name:mar_x_variant":[
         "\u0935\u094d\u0939\u0945\u091f\u093f\u0915\u0928 \u0938\u093f\u091f\u0940"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
     ],
     "name:mhr_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
@@ -576,6 +627,9 @@
     "name:mlt_x_variant":[
         "Belt tal-Vatikan"
     ],
+    "name:mni_x_preferred":[
+        "\uabda\uabe6\uabc7\uabe4\uabc0\uabe5\uabdf \uabc1\uabe4\uabc7\uabe4"
+    ],
     "name:mon_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
     ],
@@ -583,7 +637,8 @@
         "Vatican"
     ],
     "name:msa_x_variant":[
-        "Kota Vatican"
+        "Kota Vatican",
+        "Vatikan"
     ],
     "name:mwl_x_preferred":[
         "Baticano"
@@ -596,6 +651,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d \u041c\u0430\u0441\u0442\u043e\u0440"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
     ],
     "name:nan_x_preferred":[
         "Vaticano"
@@ -658,6 +716,9 @@
     "name:ori_x_variant":[
         "\u0b2d\u0b3e\u0b1f\u0b3f\u0b15\u0b3e\u0b28 \u0b38\u0b3f\u0b1f\u0b3f"
     ],
+    "name:orm_x_preferred":[
+        "Vaatikaan"
+    ],
     "name:oss_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
     ],
@@ -681,6 +742,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u0679\u06cc\u06a9\u0646"
+    ],
+    "name:pnb_x_variant":[
+        "\u0648\u064e\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0650\u0679\u06cc"
     ],
     "name:pnt_x_preferred":[
         "\u0392\u03b1\u03c4\u03b9\u03ba\u03b1\u03bd\u03cc"
@@ -763,8 +827,17 @@
     "name:sgs_x_preferred":[
         "Vatikans"
     ],
+    "name:shi_x_preferred":[
+        "Lvatikan"
+    ],
+    "name:shn_x_preferred":[
+        "\u101d\u1083\u1087\u1010\u102e\u1087\u1075\u107c\u103a\u1087\u101e\u102e\u1038\u1010\u102e\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dad\u0dd2\u0d9a\u0dcf\u0db1\u0dd4\u0dc0"
+    ],
+    "name:skr_x_preferred":[
+        "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"
     ],
     "name:slk_x_preferred":[
         "Sv\u00e4t\u00e1 stolica (Vatik\u00e1nsky mestsk\u00fd \u0161t\u00e1t)"
@@ -777,6 +850,12 @@
     ],
     "name:sme_x_preferred":[
         "Vatik\u00e1na"
+    ],
+    "name:smn_x_preferred":[
+        "Vatikaanriijk\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "Vatikaan"
     ],
     "name:sna_x_preferred":[
         "Vatican State"
@@ -792,6 +871,9 @@
     ],
     "name:som_x_variant":[
         "Faatikan"
+    ],
+    "name:sot_x_preferred":[
+        "Vatican City"
     ],
     "name:spa_x_preferred":[
         "Ciudad del Vaticano"
@@ -867,8 +949,14 @@
     "name:tir_x_preferred":[
         "\u126b\u1272\u12ab\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Wasikano"
+    ],
     "name:ton_x_preferred":[
         "Vatikani"
+    ],
+    "name:ton_x_variant":[
+        "Kolo Vatikani"
     ],
     "name:tso_x_preferred":[
         "Vatican City"
@@ -878,6 +966,9 @@
     ],
     "name:tur_x_preferred":[
         "Vatikan"
+    ],
+    "name:twi_x_preferred":[
+        "Vatican City"
     ],
     "name:udm_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
@@ -1233,7 +1324,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1636506408,
+    "wof:lastmodified":1690893396,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
