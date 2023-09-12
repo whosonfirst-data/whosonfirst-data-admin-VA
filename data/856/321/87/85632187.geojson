@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":520036.247413,
+    "geom:area_square_m":520036.247412,
     "geom:bbox":"12.445909,41.900276,12.458336,41.907417",
     "geom:latitude":41.903395,
     "geom:longitude":12.452965,
@@ -16,6 +16,9 @@
         "39-06"
     ],
     "itu:region":"39",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "VA"
     ],
@@ -1257,7 +1260,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"39-06",
     "statoids:ds":"V",
     "statoids:fifa":"VAT",
@@ -1312,7 +1316,7 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
+    "wof:geomhash":"4b393c82c45fd756c3f769c697538955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1324,12 +1328,12 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1690893396,
+    "wof:lastmodified":1694492217,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":921,
-    "wof:population_rank":2,
+    "wof:population":825,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-va",
     "wof:shortcode":"VA",
     "wof:superseded_by":[],
