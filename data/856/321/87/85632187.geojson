@@ -1261,7 +1261,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"39-06",
     "statoids:ds":"V",
     "statoids:fifa":"VAT",
@@ -1328,7 +1328,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1694492217,
+    "wof:lastmodified":1694639671,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
