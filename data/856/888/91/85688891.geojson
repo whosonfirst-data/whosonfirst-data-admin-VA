@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000057,
-    "geom:area_square_m":520046.408469,
+    "geom:area_square_m":520036.247412,
     "geom:bbox":"12.445909,41.900276,12.458336,41.907417",
     "geom:latitude":41.903395,
     "geom:longitude":12.452965,
@@ -131,14 +131,16 @@
     "wof:concordances":{
         "fips:code":"VT",
         "hasc:id":"VA.VA",
+        "iso:code":"VA-VA",
         "iso:id":"VA-VA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         101914185,
         85632187
     ],
     "wof:country":"VA",
-    "wof:geomhash":"f1edda57c5327561cd5c17a698c9fb3a",
+    "wof:geomhash":"4b393c82c45fd756c3f769c697538955",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,7 +152,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1636506408,
+    "wof:lastmodified":1695884972,
     "wof:name":"Vatican",
     "wof:parent_id":85632187,
     "wof:placetype":"region",
