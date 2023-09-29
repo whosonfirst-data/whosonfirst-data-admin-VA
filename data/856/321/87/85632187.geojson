@@ -1294,6 +1294,7 @@
         "gp:id":23424986,
         "hasc:id":"VA",
         "icao:code":"HV",
+        "iso:code":"VA",
         "itu:id":"CVA",
         "loc:id":"n80053295",
         "m49:code":"336",
@@ -1307,6 +1308,7 @@
         "wd:id":"Q237",
         "wk:page":"Vatican City"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         101914185,
         85688891
@@ -1328,7 +1330,7 @@
     "wof:lang_x_spoken":[
         "ita"
     ],
-    "wof:lastmodified":1694639671,
+    "wof:lastmodified":1695881330,
     "wof:name":"Vatican",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
